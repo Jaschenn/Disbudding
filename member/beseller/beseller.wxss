@@ -1,0 +1,21 @@
+/* member/beseller/beseller.wxss */
+.text{
+	color: black;
+	text-align: center;
+	font-size: 12px;
+	line-height: 220%;
+  background: white;
+	padding: 2px 0;
+
+}
+
+.button{
+	color: black;
+	text-align: center;
+	font-size: 12px;
+	line-height: 220%;
+  background: white;
+	padding: 2px 0;
+
+
+}

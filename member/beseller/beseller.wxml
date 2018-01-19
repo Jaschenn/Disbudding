@@ -1,0 +1,15 @@
+<view class="text">
+如果您希望成为店家
+</view>
+<view class='text'>
+请与我们联系。
+</view>
+
+<view class='text'>
+<checkbox></checkbox>发送邮件到admin@rukia.cc
+</view>
+<view class='text'>
+<checkbox></checkbox>拨打电话18000317884
+</view >
+<button bindtap='make' class='text'>点击拨打电话</button>
+ 

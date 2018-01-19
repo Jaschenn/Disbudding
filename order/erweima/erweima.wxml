@@ -1,0 +1,7 @@
+<!--order/erweima/erweima.wxml-->
+
+<view class="container"> 
+ 
+  <image src="{{imageurl}}"  mode='widthFix' ></image> 
+
+</view>
